@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:jacquesKallis xmlns:tns="http://www.example.org/MyNewXMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/MyNewXMLSchema MyNewXMLSchema.xsd ">
+
+</tns:jacquesKallis>
