@@ -4,7 +4,7 @@
 	xsi:noNamespaceSchemaLocation="CustomersOrders.xsd">
 	<Customers>
 		<Customer CustomerID="token">
-			<CompanyName>CompanyName</CompanyName>
+			<CompanyName>CompanyNameCompanyName</CompanyName>
 			<ContactName>ContactName</ContactName>
 			<ContactTitle>ContactTitle</ContactTitle>
 			<Phone>Phone</Phone>
