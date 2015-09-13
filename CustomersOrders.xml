@@ -19,7 +19,7 @@
 	</Customers>
 	<Orders>
 		<Order>
-			<CustomerID>token</CustomerID>
+			<CustomerID>token1</CustomerID>
 			<EmployeeID>token</EmployeeID>
 			<OrderDate>2001-12-31T12:00:00</OrderDate>
 			<RequiredDate>2001-12-31T12:00:00</RequiredDate>
